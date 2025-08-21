@@ -35,7 +35,7 @@ The CNN model consists of:
 - Dense layers with Dropout for regularization.
 - Output layer with Softmax for 3 classes.
 
-Total parameters: 1,686,915
++ Total parameters: 1,686,915
 ![Model summary](readme_images/summary.png)
 
 # Usage
