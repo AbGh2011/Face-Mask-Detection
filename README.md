@@ -65,4 +65,4 @@ The model accurately detects mask status in most cases, but may struggle with po
 
 Thank you for checking out this project! If you have any questions or suggestions, feel free to open an issue or pull request. Star the repo if you find it useful.
 
-+ Abolfazl Gharedaghi | 8/21/2025
++ Abolfazl Gharedaghi | START: 8/13/2025 - END: 8/21/2025
